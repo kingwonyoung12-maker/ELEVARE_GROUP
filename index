@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Architectural Portfolio</title>
+    <style>
+        /* This makes the flipbook fill the entire browser screen */
+        body, html { margin: 0; padding: 0; height: 100%; overflow: hidden; background-color: #1a1a1a; }
+        .container { width: 100%; height: 100vh; }
+        iframe { border: none; width: 100%; height: 100%; }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <iframe src="https://heyzine.com/flip-book/1f268b08d8.html" allowfullscreen></iframe>
+    </div>
+</body>
+</html>
